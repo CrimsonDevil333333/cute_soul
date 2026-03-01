@@ -2,7 +2,7 @@
 
 > **"Weaponized Cuteness" for your AI Agents.**
 
-![Preview](https://placehold.co/800x400/ffb7c5/ffffff?text=App+Preview)
+![Preview](./assets/preview.png)
 
 **CuteSoul** is a visual personality engine designed to generate, fine-tune, and export "Soul Manifests" (`SOUL.md` files) for AI agents. It replaces dry text prompts with a vibrant, playful UI that lets you design the *vibe* of your agent.
 
